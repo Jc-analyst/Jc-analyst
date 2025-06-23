@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joe ,@Jc-analyst, a junior analyst
 - 👀 I’m interested in improving my analytics skills, meeting and working with fellow analysts 
-- 🌱 I’m currently practicing SQL, R and power BI, Stata and Nvivo
+- 🌱 I’m currently practicing SQL, R, power BI, Stata and Nvivo
 - 💞️ I’m looking to collaborate on people's projects 
 - 📫 How to reach me jc.analyst31@gmail.com
 
